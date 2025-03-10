@@ -22,7 +22,7 @@ namespace MedBridge.Models
         [RegularExpression(@"^(?=.*[A-Za-z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,}$",
             ErrorMessage = "The password must contain at least 8 number, one letter, and one special character.")]
         public string? ConfirmPassword { get; set; }
-
+        
         public string? ResetToken { get; set; }
         public DateTime? ResetTokenExpires { get; set; }
 

@@ -23,6 +23,7 @@ namespace MedBridge.Controllers
             _logger = logger;
             _memoryCache = memoryCache;
         }
+        // انتي عملتي migration?
 
         [HttpPost("signup")]
         public async Task<IActionResult> SignUp([FromBody] User user)
