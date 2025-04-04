@@ -1,73 +1,73 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\New folder\\",
+  "WorkspaceRootPath": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\new folder\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\new folder\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\new folder\\migrations\\20250310114736_cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\addcart\\migrations\\20250310114736_cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|solutionrelative:migrations\\20250310114736_cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\new folder\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\addcart\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\new folder\\dtos\\addtocartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\addcart\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\addcart\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\addcart\\dtos\\addtocartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|solutionrelative:dtos\\addtocartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\new folder\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\addcart\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|solutionrelative:models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\new folder\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\addcart\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|solutionrelative:models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\new folder\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\addcart\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\new folder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\addcart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\new folder\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\addcart\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\new folder\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\addcart\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\new folder\\medbridge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\addcart\\medbridge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|solutionrelative:medbridge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\new folder\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\addcart\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|solutionrelative:services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\new folder\\migrations\\20250308150514_update_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\addcart\\migrations\\20250308150514_update_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|solutionrelative:migrations\\20250308150514_update_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\new folder\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\addcart\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\new folder\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\addcart\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|solutionrelative:globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\new folder\\medbridge.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\addcart\\medbridge.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|solutionrelative:medbridge.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
@@ -78,47 +78,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 42,
+          "SelectedChildIndex": 34,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20250310114736_Cart.cs",
-              "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\New folder\\Migrations\\20250310114736_Cart.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250310114736_Cart.cs",
-              "ToolTip": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\New folder\\Migrations\\20250310114736_Cart.cs*",
-              "RelativeToolTip": "Migrations\\20250310114736_Cart.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T11:47:37.232Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\New folder\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\New folder\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-10T11:45:42.773Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AddToCartDto.cs",
-              "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\New folder\\Dtos\\AddToCartDto.cs",
-              "RelativeDocumentMoniker": "Dtos\\AddToCartDto.cs",
-              "ToolTip": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\New folder\\Dtos\\AddToCartDto.cs",
-              "RelativeToolTip": "Dtos\\AddToCartDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T11:39:43.897Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -257,167 +218,192 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CartController.cs",
-              "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\New folder\\Controllers\\CartController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
-              "ToolTip": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\New folder\\Controllers\\CartController.cs",
-              "RelativeToolTip": "Controllers\\CartController.cs",
-              "ViewState": "AgIAABIAAAAAoJmZmZktwCkAAAB4AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "20250310114736_Cart.cs",
+              "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\Migrations\\20250310114736_Cart.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250310114736_Cart.cs",
+              "ToolTip": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\Migrations\\20250310114736_Cart.cs",
+              "RelativeToolTip": "Migrations\\20250310114736_Cart.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwBcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T11:32:48.323Z",
+              "WhenOpened": "2025-03-10T11:47:37.232Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-10T11:45:42.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddToCartDto.cs",
+              "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\Dtos\\AddToCartDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\AddToCartDto.cs",
+              "ToolTip": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\Dtos\\AddToCartDto.cs",
+              "RelativeToolTip": "Dtos\\AddToCartDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:39:43.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:32:48.323Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Cart.cs",
-              "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\New folder\\Models\\Cart.cs",
+              "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\Models\\Cart.cs",
               "RelativeDocumentMoniker": "Models\\Cart.cs",
-              "ToolTip": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\New folder\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\Models\\Cart.cs",
               "RelativeToolTip": "Models\\Cart.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T11:28:31.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T11:28:31.792Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\New folder\\Models\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\New folder\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\Models\\Product.cs",
               "RelativeToolTip": "Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T11:27:53.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T11:27:53.067Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\New folder\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\New folder\\Program.cs",
+              "ToolTip": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T20:23:56.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T20:23:56.837Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\New folder\\Controllers\\UserController.cs",
+              "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\New folder\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\Controllers\\UserController.cs",
               "RelativeToolTip": "Controllers\\UserController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T21:27:20.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T21:27:20.71Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\New folder\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\New folder\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\Models\\User.cs",
               "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T21:17:51.808Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T21:17:51.808Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\New folder\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\New folder\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T11:22:47.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T11:22:47.647Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "CartItem.cs",
-              "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\New folder\\Models\\CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\Models\\CartItem.cs",
               "RelativeDocumentMoniker": "Models\\CartItem.cs",
-              "ToolTip": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\New folder\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\Models\\CartItem.cs",
               "RelativeToolTip": "Models\\CartItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T11:29:11.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T11:29:11.004Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "MedBridge",
-              "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\New folder\\MedBridge.csproj",
+              "Title": "MedBridge.csproj",
+              "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\MedBridge.csproj",
               "RelativeDocumentMoniker": "MedBridge.csproj",
-              "ToolTip": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\New folder\\MedBridge.csproj",
+              "ToolTip": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\MedBridge.csproj",
               "RelativeToolTip": "MedBridge.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-10T11:38:23.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T11:38:23.534Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "20250308150514_update_User.cs",
-              "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\New folder\\Migrations\\20250308150514_update_User.cs",
+              "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\Migrations\\20250308150514_update_User.cs",
               "RelativeDocumentMoniker": "Migrations\\20250308150514_update_User.cs",
-              "ToolTip": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\New folder\\Migrations\\20250308150514_update_User.cs",
+              "ToolTip": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\Migrations\\20250308150514_update_User.cs",
               "RelativeToolTip": "Migrations\\20250308150514_update_User.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T11:23:04.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T11:23:04.445Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\New folder\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\New folder\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T11:22:58.979Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T11:22:58.979Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "PasswordHasher.cs",
-              "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\New folder\\Services\\PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\Services\\PasswordHasher.cs",
               "RelativeDocumentMoniker": "Services\\PasswordHasher.cs",
-              "ToolTip": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\New folder\\Services\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\Services\\PasswordHasher.cs",
               "RelativeToolTip": "Services\\PasswordHasher.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T17:12:54.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T17:12:54.007Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "MedBridge.http",
-              "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\New folder\\MedBridge.http",
+              "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\MedBridge.http",
               "RelativeDocumentMoniker": "MedBridge.http",
-              "ToolTip": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\New folder\\MedBridge.http",
+              "ToolTip": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\MedBridge.http",
               "RelativeToolTip": "MedBridge.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
@@ -427,9 +413,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "GlobalUsings.cs",
-              "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\New folder\\GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\GlobalUsings.cs",
               "RelativeDocumentMoniker": "GlobalUsings.cs",
-              "ToolTip": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\New folder\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\GlobalUsings.cs",
               "RelativeToolTip": "GlobalUsings.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
