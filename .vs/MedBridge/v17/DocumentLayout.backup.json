@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\addcart\\migrations\\20250310114736_cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|solutionrelative:migrations\\20250310114736_cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\addcart\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\addcart\\dtos\\updatecartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|solutionrelative:dtos\\updatecartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\addcart\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|solutionrelative:models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\addcart\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|solutionrelative:models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\addcart\\dtos\\addtocartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|solutionrelative:dtos\\addtocartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\addcart\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\addcart\\migrations\\20250310114736_cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|solutionrelative:migrations\\20250310114736_cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\addcart\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,22 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\addcart\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\addcart\\dtos\\addtocartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|solutionrelative:dtos\\addtocartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\addcart\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|solutionrelative:models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\addcart\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|solutionrelative:models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\addcart\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D75D484A-92E9-4622-A3B4-2F903C03CB4E}|MedBridge.csproj|c:\\users\\i.tech\\desktop\\project attachments\\addcart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 34,
+          "SelectedChildIndex": 37,
           "Children": [
             {
               "$type": "Bookmark",
@@ -218,20 +222,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20250310114736_Cart.cs",
-              "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\Migrations\\20250310114736_Cart.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250310114736_Cart.cs",
-              "ToolTip": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\Migrations\\20250310114736_Cart.cs",
-              "RelativeToolTip": "Migrations\\20250310114736_Cart.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAgwBcAAAATAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "UpdateCartItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\Dtos\\UpdateCartItemDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\UpdateCartItemDto.cs",
+              "ToolTip": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\Dtos\\UpdateCartItemDto.cs*",
+              "RelativeToolTip": "Dtos\\UpdateCartItemDto.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T11:47:37.232Z",
+              "WhenOpened": "2025-04-14T11:54:04.456Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -255,19 +259,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CartController.cs",
               "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "Controllers\\CartController.cs",
-              "ToolTip": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\Controllers\\CartController.cs",
-              "RelativeToolTip": "Controllers\\CartController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAmAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\Controllers\\CartController.cs*",
+              "RelativeToolTip": "Controllers\\CartController.cs*",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAcwIcAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T11:32:48.323Z"
+              "WhenOpened": "2025-03-10T11:32:48.323Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Cart.cs",
               "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\Models\\Cart.cs",
               "RelativeDocumentMoniker": "Models\\Cart.cs",
@@ -279,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
@@ -291,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -303,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
@@ -315,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
@@ -327,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
@@ -339,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "CartItem.cs",
               "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\Models\\CartItem.cs",
               "RelativeDocumentMoniker": "Models\\CartItem.cs",
@@ -351,7 +356,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 6,
+              "Title": "20250310114736_Cart.cs",
+              "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\Migrations\\20250310114736_Cart.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250310114736_Cart.cs",
+              "ToolTip": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\Migrations\\20250310114736_Cart.cs",
+              "RelativeToolTip": "Migrations\\20250310114736_Cart.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwBcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:47:37.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "MedBridge.csproj",
               "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\MedBridge.csproj",
               "RelativeDocumentMoniker": "MedBridge.csproj",
@@ -363,7 +380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "20250308150514_update_User.cs",
               "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\Migrations\\20250308150514_update_User.cs",
               "RelativeDocumentMoniker": "Migrations\\20250308150514_update_User.cs",
@@ -375,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ApplicationDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
@@ -387,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "PasswordHasher.cs",
               "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\Services\\PasswordHasher.cs",
               "RelativeDocumentMoniker": "Services\\PasswordHasher.cs",
@@ -399,7 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "MedBridge.http",
               "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\MedBridge.http",
               "RelativeDocumentMoniker": "MedBridge.http",
@@ -411,7 +428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "GlobalUsings.cs",
               "DocumentMoniker": "C:\\Users\\i.tech\\Desktop\\Project Attachments\\AddCart\\GlobalUsings.cs",
               "RelativeDocumentMoniker": "GlobalUsings.cs",

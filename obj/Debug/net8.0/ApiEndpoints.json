@@ -1,6 +1,16 @@
 [
   {
     "ContainingType": "MedBridge.Controllers.CartController",
+    "Method": "GetCart",
+    "RelativePath": "api/cart",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MedBridge.Controllers.CartController",
     "Method": "AddToCart",
     "RelativePath": "api/cart/add",
     "HttpMethod": "POST",
@@ -10,6 +20,48 @@
       {
         "Name": "model",
         "Type": "MedBridge.Dtos.AddToCartDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MedBridge.Controllers.CartController",
+    "Method": "ClearCart",
+    "RelativePath": "api/cart/clear",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MedBridge.Controllers.CartController",
+    "Method": "DeleteFromCart",
+    "RelativePath": "api/cart/delete/{productId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MedBridge.Controllers.CartController",
+    "Method": "UpdateQuantity",
+    "RelativePath": "api/cart/update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "MedBridge.Dtos.UpdateCartItemDto",
         "IsRequired": true
       }
     ],

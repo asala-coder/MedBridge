@@ -5,6 +5,7 @@ using System;
 
 namespace MedBridge.Controllers
 {
+
     [Route("api/cart")]
     [ApiController]
     public class CartController : ControllerBase
@@ -16,7 +17,6 @@ namespace MedBridge.Controllers
             _context = context;
         }
 
-        // دالة لاستخراج UserId من الـ JWT
         private string GetUserId()
         {
             return User.FindFirst(ClaimTypes.NameIdentifier)?.Value;
@@ -32,8 +32,7 @@ namespace MedBridge.Controllers
                     return Unauthorized("Invalid user.");
 
                 var product = await _context.Products.FindAsync(model.ProductId);
-                if (product == null)  
-                    
+                if (product == null)
                     return NotFound("Product not found.");
 
                 var cart = await _context.Carts
@@ -42,7 +41,7 @@ namespace MedBridge.Controllers
 
                 if (cart == null)
                 {
-                    cart = new Cart { UserId = userId };
+                    cart = new Cart { UserId = userId, CartItems = new List<CartItem>() };
                     _context.Carts.Add(cart);
                     await _context.SaveChangesAsync();
                 }
@@ -66,5 +65,120 @@ namespace MedBridge.Controllers
                 return StatusCode(500, new { Message = "An error occurred.", Error = ex.Message });
             }
         }
+
+        [HttpGet]
+        public async Task<IActionResult> GetCart()
+        {
+            try
+            {
+                string userId = GetUserId();
+                if (userId == null)
+                    return Unauthorized("Invalid user.");
+
+                var cart = await _context.Carts
+                    .Include(c => c.CartItems)
+                    .ThenInclude(ci => ci.Product)
+                    .FirstOrDefaultAsync(c => c.UserId == userId);
+
+                if (cart == null || !cart.CartItems.Any())
+                    return Ok(new { Message = "Cart is empty" });
+
+                return Ok(cart);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, new { Message = "An error occurred.", Error = ex.Message });
+            }
+        }
+
+        [HttpDelete("delete/{productId}")]
+        public async Task<IActionResult> DeleteFromCart(int productId)
+        {
+            try
+            {
+                string userId = GetUserId();
+                if (userId == null)
+                    return Unauthorized("Invalid user.");
+
+                var cart = await _context.Carts
+                    .Include(c => c.CartItems)
+                    .FirstOrDefaultAsync(c => c.UserId == userId);
+
+                if (cart == null)
+                    return NotFound("Cart not found.");
+
+                var cartItem = cart.CartItems.FirstOrDefault(ci => ci.ProductId == productId);
+                if (cartItem == null)
+                    return NotFound("Product not found in cart.");
+
+                cart.CartItems.Remove(cartItem);
+                await _context.SaveChangesAsync();
+
+                return Ok(new { Message = "Product removed from cart" });
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, new { Message = "An error occurred.", Error = ex.Message });
+            }
+        }
+
+        [HttpPut("update")]
+        public async Task<IActionResult> UpdateQuantity([FromBody] UpdateCartItemDto model)
+        {
+            try
+            {
+                string userId = GetUserId();
+                if (userId == null)
+                    return Unauthorized("Invalid user.");
+
+                var cart = await _context.Carts
+                    .Include(c => c.CartItems)
+                    .FirstOrDefaultAsync(c => c.UserId == userId);
+
+                if (cart == null)
+                    return NotFound("Cart not found.");
+
+                var cartItem = cart.CartItems.FirstOrDefault(ci => ci.ProductId == model.ProductId);
+                if (cartItem == null)
+                    return NotFound("Product not found in cart.");
+
+                cartItem.Quantity = model.Quantity;
+                await _context.SaveChangesAsync();
+
+                return Ok(new { Message = "Quantity updated", Cart = cart });
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, new { Message = "An error occurred.", Error = ex.Message });
+            }
+        }
+
+        [HttpDelete("clear")]
+        public async Task<IActionResult> ClearCart()
+        {
+            try
+            {
+                string userId = GetUserId();
+                if (userId == null)
+                    return Unauthorized("Invalid user.");
+
+                var cart = await _context.Carts
+                    .Include(c => c.CartItems)
+                    .FirstOrDefaultAsync(c => c.UserId == userId);
+
+                if (cart == null)
+                    return NotFound("Cart not found.");
+
+                cart.CartItems.Clear();
+                await _context.SaveChangesAsync();
+
+                return Ok(new { Message = "Cart cleared" });
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, new { Message = "An error occurred.", Error = ex.Message });
+            }
+        }
     }
+
 }
