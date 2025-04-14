@@ -1,4 +1,5 @@
 ﻿using MedBridge.Dtos;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -8,6 +9,7 @@ namespace MedBridge.Controllers
 
     [Route("api/cart")]
     [ApiController]
+    [Authorize]
     public class CartController : ControllerBase
     {
         private readonly ApplicationDbContext _context;
@@ -27,6 +29,9 @@ namespace MedBridge.Controllers
         {
             try
             {
+                if (model.Quantity <= 0)
+                    return BadRequest("Quantity must be greater than 0.");
+
                 string userId = GetUserId();
                 if (userId == null)
                     return Unauthorized("Invalid user.");
@@ -34,6 +39,9 @@ namespace MedBridge.Controllers
                 var product = await _context.Products.FindAsync(model.ProductId);
                 if (product == null)
                     return NotFound("Product not found.");
+
+                if (product.StockQuantity <= 0)
+                    return BadRequest("Product is out of stock.");
 
                 var cart = await _context.Carts
                     .Include(c => c.CartItems)
@@ -127,6 +135,9 @@ namespace MedBridge.Controllers
         {
             try
             {
+                if (model.Quantity <= 0)
+                    return BadRequest("Quantity must be greater than 0.");
+
                 string userId = GetUserId();
                 if (userId == null)
                     return Unauthorized("Invalid user.");
